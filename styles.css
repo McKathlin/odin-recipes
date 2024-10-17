@@ -46,6 +46,10 @@ img {
     border-radius: 3px;
 }
 
+li {
+    margin-bottom: 0.6em;
+}
+
 .featured {
     background:  #f8f0ee;
     font-size: 125%;
