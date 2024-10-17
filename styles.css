@@ -1,0 +1,45 @@
+body {
+    font-family: Cambria, Cochin, Georgia, serif;
+}
+
+header {
+    height: 1em;
+    margin-bottom: -1em;
+}
+
+header a {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    min-height: 85vh;
+    padding: 0 3vw;
+    max-width: 50em;
+    margin: auto;
+}
+
+a, a:visited {
+    color: #8877aa;
+}
+
+a:hover {
+    color: #4433aa;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 75vh;
+}
+
+footer p {
+    font-size: 10pt;
+    text-align: center;
+    padding-top: 1em;
+}
