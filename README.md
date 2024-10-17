@@ -7,7 +7,7 @@ The site is live on GitHub; you can visit it [here](https://mckathlin.github.io/
 
 The site features three of my favorite recipes:
 * Carrot Soup
-* Jen's Jambalaya (sourced from [Allrecipes](https://www.allrecipes.com/))
+* Jen's Jambalaya (sourced from [Allrecipes](https://www.allrecipes.com/recipe/133604/jens-jambalaya/))
 * Six Can Soup
 
 The Odin Project only calls for basic HTML on this project, but I've opted to give
