@@ -1,2 +1,11 @@
 # odin-recipes
-A sample static recipe site made as part of The Odin Project curriculum
+This is a sample static recipe site made as part of The Odin Project curriculum.
+
+The site features three of my favorite recipes:
+* Carrot Soup
+* Jen's Jambalaya (sourced from [Allrecipes](https://www.allrecipes.com/))
+* Six Can Soup
+
+The Odin Project only calls for basic HTML on this project, but I've opted to give
+this site some subtle CSS styling anyway. The style has a light mode and a dark mode
+and conforms to the client browser's preferred color scheme.
