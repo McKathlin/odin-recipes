@@ -1,6 +1,18 @@
+/* Entire Page */
+
 body {
     font-family: Cambria, Cochin, Georgia, serif;
 }
+
+a, a:visited {
+    color: #8877aa;
+}
+
+a:hover {
+    color: #4433aa;
+}
+
+/* Header */
 
 header {
     height: 1em;
@@ -12,19 +24,13 @@ header a {
     padding: 0;
 }
 
+/* Main */
+
 main {
     min-height: 85vh;
     padding: 0 3vw;
     max-width: 50em;
     margin: auto;
-}
-
-a, a:visited {
-    color: #8877aa;
-}
-
-a:hover {
-    color: #4433aa;
 }
 
 h1, h2 {
@@ -36,9 +42,14 @@ img {
     margin: auto;
     width: 100%;
     max-width: 75vh;
+    border: 1px solid #ddddcc;
+    border-radius: 3px;
 }
 
+/* Footer */
+
 footer p {
+    opacity: 50%;
     font-size: 10pt;
     text-align: center;
     padding-top: 1em;
