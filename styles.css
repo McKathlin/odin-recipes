@@ -46,6 +46,16 @@ img {
     border-radius: 3px;
 }
 
+.featured {
+    background:  #f8f0ee;
+    font-size: 125%;
+    max-width: 25em;
+    margin: auto;
+    padding: 1em 2em;
+    border: 1px solid #ddddcc;
+    border-radius: 3px;
+}
+
 /* Footer */
 
 footer p {
