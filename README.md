@@ -1,5 +1,9 @@
 # odin-recipes
-This is a sample static recipe site made as part of The Odin Project curriculum.
+This is a sample static recipe site made as part of
+[The Odin Project](https://www.theodinproject.com/) curriculum,
+as outlined [here](https://www.theodinproject.com/lessons/foundations-recipes).
+
+The site is live on GitHub; you can visit it [here](https://mckathlin.github.io/odin-recipes/).
 
 The site features three of my favorite recipes:
 * Carrot Soup
