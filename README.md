@@ -10,6 +10,5 @@ The site features three of my favorite recipes:
 * Jen's Jambalaya (sourced from [Allrecipes](https://www.allrecipes.com/recipe/133604/jens-jambalaya/))
 * Six Can Soup
 
-The Odin Project only calls for basic HTML on this project, but I've opted to give
-this site some subtle CSS styling anyway. The style has a light mode and a dark mode
-and conforms to the client browser's preferred color scheme.
+This site uses subtle colors that conform to the client browser's preferred color scheme
+(i.e. light mode or dark mode).
